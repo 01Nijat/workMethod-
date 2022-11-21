@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\class metod\calisma2\bin\Debug\netcoreapp3.1\calisma2.exe
+C:\Users\ASUS\source\repos\class metod\calisma2\bin\Debug\netcoreapp3.1\calisma2.deps.json
+C:\Users\ASUS\source\repos\class metod\calisma2\bin\Debug\netcoreapp3.1\calisma2.runtimeconfig.json
+C:\Users\ASUS\source\repos\class metod\calisma2\bin\Debug\netcoreapp3.1\calisma2.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\class metod\calisma2\bin\Debug\netcoreapp3.1\calisma2.dll
+C:\Users\ASUS\source\repos\class metod\calisma2\bin\Debug\netcoreapp3.1\calisma2.pdb
+C:\Users\ASUS\source\repos\class metod\calisma2\obj\Debug\netcoreapp3.1\calisma2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\class metod\calisma2\obj\Debug\netcoreapp3.1\calisma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\class metod\calisma2\obj\Debug\netcoreapp3.1\calisma2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\class metod\calisma2\obj\Debug\netcoreapp3.1\calisma2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\class metod\calisma2\obj\Debug\netcoreapp3.1\calisma2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\class metod\calisma2\obj\Debug\netcoreapp3.1\calisma2.dll
+C:\Users\ASUS\source\repos\class metod\calisma2\obj\Debug\netcoreapp3.1\calisma2.pdb
+C:\Users\ASUS\source\repos\class metod\calisma2\obj\Debug\netcoreapp3.1\calisma2.genruntimeconfig.cache
